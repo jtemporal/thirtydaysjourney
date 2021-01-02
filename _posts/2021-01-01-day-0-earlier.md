@@ -6,6 +6,7 @@ categories:
 title: Day 0 - Earlier
 author: jess
 image: "/assets/images/656f795a-a199-4312-87fc-e2aa982367e4.png"
+excerpt: Check in time!!
 
 ---
 Dear diary,
