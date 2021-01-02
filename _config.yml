@@ -4,7 +4,7 @@ url: "http://jtemporal.com"
 name: 30 days yoga journey
 description: A diary of a 30 days yoga journey
 logo: assets/images/logo.png
-favicon: assets/images/favicon.ico
+favicon: favicon.ico
 email: hello@jtemporal.com
 mailchimp-list: ''
 include:
