@@ -18,7 +18,7 @@ god!
 It is here!!!
 
 <center>
-<img src="{{site.url}}{{site.baseurl}}/assets/images/d2341e58-2125-44bb-af0d-123b52bb0679.jpeg">
+<img width="25%" height="25%" src="{{site.url}}{{site.baseurl}}/assets/images/d2341e58-2125-44bb-af0d-123b52bb0679.jpeg">
 </center>
 
 Today we have our first practice, and I'm really excited about this beginning.
@@ -39,4 +39,4 @@ Soon I'll lay my mat on the living room floor, but first, breakfast.
 
 Namaste! 🧘‍♀️
 
-<img src="{{site.url}}{{site.baseurl}}/assets/images/jess-signature.gif">
+<img width="25%" height="25%" src="{{site.url}}{{site.baseurl}}/assets/images/jess-signature.gif">
