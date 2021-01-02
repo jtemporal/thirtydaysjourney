@@ -19,7 +19,7 @@ authors:
   jess:
     name: Jess Temporal
     site: https://jtemporal.com
-    avatar: "/assets/images/photo_2020-03-13-09-56-53.jpeg"
+    avatar: "/assets/images/jess.png"
     bio: hi!
     email: hello@jtemporal.com
     twitter: https://twitter.com/jesstemporal
@@ -29,7 +29,7 @@ defaults:
   values:
     layout: post
     author: jess
-    avatar: "/assets/images/photo_2020-03-13-09-56-53.jpeg"
+    avatar: "/assets/images/jess.png"
 - scope:
     path: _pages
   values:
