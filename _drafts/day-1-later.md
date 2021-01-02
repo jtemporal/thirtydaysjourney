@@ -37,4 +37,4 @@ And will definitely add that hand massage to my before-bed routine.
 
 That's it for the day, see you tomorrow.
 
-Namaste! 🧘‍♀️ 
+Namaste! 🧘‍♀️<img width="25%" height="25%" src="{{site.url}}{{site.baseurl}}/assets/images/jess-signature.gif">
