@@ -2,7 +2,7 @@
 title: "About"
 layout: page-sidebar
 permalink: "/about.html"
-image: "/assets/images/jess.png"
+image: "/assets/images/jess.jpg"
 comments: true
 ---
 
