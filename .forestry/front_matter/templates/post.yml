@@ -20,5 +20,14 @@ fields:
 - type: file
   name: image
   label: image
+- name: excerpt
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: excerpt
 pages:
 - _posts/2021-01-02-day-1-later.md
