@@ -16,19 +16,19 @@ plugins:
 - jekyll-paginate
 - jekyll-seo-tag
 authors:
-  jane:
+  jess:
     name: Jess Temporal
     site: https://jtemporal.com
     avatar: "/assets/images/avatar2.jpg"
     bio: hi!
-    email: hello@jtemporla.com
+    email: hello@jtemporal.com
     twitter: https://twitter.com/jesstemporal
 defaults:
 - scope:
     path: _posts
   values:
     layout: post
-    author: sal
+    author: jess
     avatar: "/assets/images/avatar1.jpg"
 - scope:
     path: _pages
