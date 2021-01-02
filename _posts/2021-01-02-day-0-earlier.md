@@ -47,4 +47,4 @@ So let's go to the first class!
 
 Namaste! 🧘‍♀️
 
-<iframe src="https://giphy.com/embed/jOYpcSSepLDTliHgW7" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/jOYpcSSepLDTliHgW7">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/jOYpcSSepLDTliHgW7" max-width="25%" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/jOYpcSSepLDTliHgW7">via GIPHY</a></p>
