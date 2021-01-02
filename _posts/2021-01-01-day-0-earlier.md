@@ -45,6 +45,4 @@ I'll also log every practice on my workout app on Apple Watch 6. Gotta close tho
 
 So let's go to the first class!
 
-Namaste! 🧘‍♀️
-
-<img width="25%" height="25%" src="{{site.url}}{{site.baseurl}}/assets/images/jess-signature.gif">
+Namaste! 🧘‍♀️ <img width="25%" height="25%" src="{{site.url}}{{site.baseurl}}/assets/images/jess-signature.gif">
