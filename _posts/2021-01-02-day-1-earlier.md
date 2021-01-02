@@ -37,6 +37,4 @@ It's a sunny day out, the sky is blue, and I can hear the birds outside.
 
 Soon I'll lay my mat on the living room floor, but first, breakfast.
 
-Namaste! 🧘‍♀️
-
-<img width="25%" height="25%" src="{{site.url}}{{site.baseurl}}/assets/images/jess-signature.gif">
+Namaste! 🧘‍♀️ <img width="25%" height="25%" src="{{site.url}}{{site.baseurl}}/assets/images/jess-signature.gif">
