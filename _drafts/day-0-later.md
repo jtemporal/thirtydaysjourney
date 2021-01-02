@@ -7,44 +7,30 @@ author: Jess Temporal
 image: "/assets/images/656f795a-a199-4312-87fc-e2aa982367e4.png"
 
 ---
-Dear diary,
+Dear diary, I did it! Day 0 completed! 🎉
 
-This will be my diary for the next 30 days. And yes! I plan to begin every post with _"Dear diary"_.
+The first video was a check-in moment, an opportunity to set an intention for this journey! Everything we do has a purpose, whether we like it or not. I didn't have _an intention_ when I said yes to Ana's invite.
 
-So, yesterday [Ana Schwendler](https://twitter.com/anaschwendler) invited me to this [_"30-days YOGA journey"_ by Adriene](https://do.yogawithadriene.com/breath-30-day-yoga-journey). You know we've been supporting each other since we had met back in 2017. First, has it been this long already???
+Better yet, let's say I didn't know what it was until I took a little bit of time to think about it.
 
-We worked together on the Serenata de Amor project, and our friendship flourished from many video conferences.
+Do you want to know what I decided on? Well... I'll tell you anyway... you see, for the past year, I've been struggling to show up to my mat consistently. And I know it's okay and that my body doesn't always do things the same way.
 
-And here we are. I must say, 2020 wasn't easy.
+But for the first time, after a long year, I realized that I like being around people for my practice. Whether it is yoga or swimming, I always had a room (or pool) full of people trying to be the best version of themselves— a sense of community.
 
-We faced our own challenges, but one thing that stuck with us was our almost daily check-in with each other's health and fitness journey.
+And I miss it!
 
-You see, last year was complicated, but to decided to keep doing yoga, we could fit the practice in our hectic daily schedule. And best yet, we only needed a little space in our apartment to do it.
+So my intention for this will be to show up for myself. To do my practice every day knowing that even though I don't see it, other people (Ana, I'm looking at you girl!!) somewhere in the world are doing their part.
 
-Our favorite app to keep up with our practices is [Yoga by Down Dog](https://www.downdogapp.com/). Their set of values match ours and also provides both a challenge and something to share.
+Even though today's video wasn't a practice _per se_, I pulled out my yoga mat from it's usual _"resting place"_ and sat there.
 
-We would send prints of the practice done to each other over [Telegram](https://telegram.org/) whenever we did one.
+Listening to Adriene and just breathing. And thinking about my in­tention.
 
-Practicing yoga has brought Ana and me even closer, even though it has been more than a year since we actually saw each other. It has strengthened our friendship. When Ana sent me the link, the only thing I could say was: LET'S DO THIS! 🎉
+After this connection moment, I did a little hatha yoga with Down Dog's help. And then finished my practice for the day.
 
-Today is day 0 of the 30-days journey, and we are committing to show up to our mats for the next 30 days. We can, and we will.
+![images/c3d0b20f-8593-4521-be91-1cf3fe1913fb.jpeg](images/c3d0b20f-8593-4521-be91-1cf3fe1913fb.jpeg)
 
-To make this experience more complete, I de­cided to make a diary.
+A little disclaimer, I'm not a morning person. But taking this moment first thing in the morning made me a little bit happier to have accomplished something before lunch on this cloudy day.
 
-I'll write down how I'm feeling and how things are progressing for me.
-
-I _hope_ this will help me realize how much I improve and better connect with my body.
-
-I'm also hoping to make more intense use of my gadgets to help out on this.
-
-All of my notes will be handwritten entries on [Notability, an app from GingerLabs](https://www.gingerlabs.com/), then converted to text. All of this will happen on my 2020 11 inch iPad Pro and will be made with Apple Pencil 2.
-
-Adriene (the yoga instructor) will post each class on youtube, so I'll use the [YouTube app](https://www.google.com.br/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjl9pGF9_vtAhV6DrkGHV15Cj8QFjABegQIAhAC&url=https%3A%2F%2Fapps.apple.com%2Fbr%2Fapp%2Fyoutube%2Fid544007664&usg=AOvVaw3o68oZM5V6tI4sS-HdZ8bA) to watch the videos and follow along using my Airpods 2.
-
-I'll also log every practice on my workout app on Apple Watch 6. Gotta close those rings, am I right?!
-
-So let's go to the first class!
+I'll see you tomorrow on the mat.
 
 Namaste! 🧘‍♀️
-
-<iframe src="https://giphy.com/embed/jOYpcSSepLDTliHgW7" max-width="25%" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/jOYpcSSepLDTliHgW7">via GIPHY</a></p>
