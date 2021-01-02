@@ -17,6 +17,10 @@ god!
 
 It is here!!!
 
+<center>
+
+</center>
+
 Today we have our first practice, and I'm really excited about this beginning.
 
 You see... I love the beginning of things, to learn new stuff. There's a saying: _"Be brave enough to suck at something new"_. Last year was the ukulele. This year will be the daily yoga practice.
