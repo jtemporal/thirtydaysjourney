@@ -1,7 +1,7 @@
 ---
 baseurl: "/thirtydaysjourney" # the subpath of your site, e.g. /blog
 url: "http://jtemporal.com"
-name: 30 days yoga journey
+name: 30-d yoga journey
 description: A diary of a 30 days yoga journey
 logo: assets/images/logo.png
 favicon: favicon.ico
@@ -20,7 +20,7 @@ authors:
     name: Jess Temporal
     site: https://jtemporal.com
     avatar: "/assets/images/jess.png"
-    bio: hi!
+    bio: "I'm data scientist and pocaster trying to show up to the mat everyday (for the next 30 days)."
     email: hello@jtemporal.com
     twitter: https://twitter.com/jesstemporal
 defaults:
