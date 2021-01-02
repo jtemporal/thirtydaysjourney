@@ -1,0 +1,40 @@
+---
+layout: post
+categories:
+- day 1
+title: Day 1 - Later
+author: jess
+image: "/assets/images/9d7c0e28-8d9c-4f83-97b5-178c6c3f07b3.jpeg"
+
+---
+Dear diary,
+
+I have so many things going on my mind right now is I don't even know where to start.
+
+Okay, let's begin by, well, the beginning...
+
+I laid down my mat, grabbed my blocks, set the iPad to the side, and pressed play.
+
+Today's class starts with a moment for breathing. Well, this is a journey focused on breathing, no surprises when the first class invites you to breathe. 😊
+
+I gotta say, my breathing isn't my strongest skill. I think this is partially due to many years of swimming classes. When you do swimming classes, you learn to inhale as deeply as possible as _fast_ as possible.
+
+Thus, I always find myself struggling to take deep, slow breaths. Especially when I have to do it in sync with some movements. Throughout the class, I found myself taking short inhales then moving a little. I hope to improve this breathing situation in the days to come.
+
+It was interesting to notice these breathe-move dynamics and, better yet, to have time to work on this.
+
+Focusing on the breath also made progressing through the poses more comfortable. I also had time to find some alignment adjustments. As Adriene said, "find nuance", every body is different, and it is important to take your body into account.
+
+For instance, today, my hips were really tight, and it took me a while to arrive at my usual hip release. Nothing like a few low lunges to help the hips slowly open.
+
+It's no surprise I finished the practice feeling more connected and happier.
+
+The sun is out today, and the day is getting warmer.
+
+I think I might stop by the pool later.
+
+And will definitely add that hand massage to my before-bed routine.
+
+That's it for the day, see you tomorrow.
+
+Namaste! 🧘‍♀️ 
