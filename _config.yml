@@ -5,7 +5,7 @@ name: 30 days yoga journey
 description: A diary of a 30 days yoga journey
 logo: assets/images/logo.png
 favicon: assets/images/favicon.ico
-email: wowthemesnet@gmail.com
+email: hello@jtemporal.com
 mailchimp-list: ''
 include:
 - _pages
@@ -19,7 +19,7 @@ authors:
   jess:
     name: Jess Temporal
     site: https://jtemporal.com
-    avatar: "/assets/images/avatar2.jpg"
+    avatar: "/assets/images/photo_2020-03-13-09-56-53.jpeg"
     bio: hi!
     email: hello@jtemporal.com
     twitter: https://twitter.com/jesstemporal
@@ -29,7 +29,7 @@ defaults:
   values:
     layout: post
     author: jess
-    avatar: "/assets/images/avatar1.jpg"
+    avatar: "/assets/images/photo_2020-03-13-09-56-53.jpeg"
 - scope:
     path: _pages
   values:
