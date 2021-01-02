@@ -2,9 +2,10 @@
 title: "About"
 layout: page-sidebar
 permalink: "/about.html"
-image: ""
+image: "/assets/images/jess.png"
 comments: true
 ---
+
 Hi, my name is Jessica, and I'm a data scientist; this means most of my days are spent sitting and facing a computer screen looking and analyzing data.
 
 I'm also a yoga passionate, and ever since my first class a few years ago, I've been connected to yoga. Even though I stopped practicing it for a while last year (2019), I decided to go back, and here we are.
