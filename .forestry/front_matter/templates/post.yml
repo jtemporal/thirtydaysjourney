@@ -10,16 +10,6 @@ fields:
 - type: text
   name: title
   label: title
-- type: text
-  name: author
-  label: author
-- name: tags
-  type: tag_list
-  default: []
-  label: tags
-- type: file
-  name: image
-  label: image
 - name: excerpt
   type: textarea
   default: ''
@@ -29,10 +19,21 @@ fields:
     schema:
       format: markdown
   label: excerpt
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
 - name: categories
   type: tag_list
   default: []
   label: categories
+- type: text
+  name: author
+  label: author
+  default: jess
+- type: file
+  name: image
+  label: image
 pages:
 - _posts/2021-01-02-day-1-later.md
 - _posts/2021-01-03-day-2-earlier.md
