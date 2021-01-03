@@ -4,6 +4,7 @@ tags:
 - featured
 title: Showing up is challenging!
 author: jess
+date: 2021-01-03 08:00:00 -0300
 image: "/assets/images/4a74b0e7-74a3-4b31-8310-f3501513f412.jpeg"
 excerpt: Self-understanding is key
 categories:
