@@ -3,6 +3,7 @@ layout: post
 tags: []
 title: First day is here!
 author: jess
+date: 2021-01-02 08:00:00 -0300
 image: "/assets/images/492fe9e1-61b5-436b-a39c-7e0b6b262440.jpeg"
 excerpt: Nothing like the smell of fresh coffee in the morning
 categories:
