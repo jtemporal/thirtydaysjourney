@@ -46,4 +46,4 @@ I feel better now and ready to go to the mat. Did I mention it's a beautiful sun
 
 See you after practice.
 
-Namaste! 🧘‍♀️
+Namaste! 🧘‍♀️ <img width="25%" height="25%" src="{{site.url}}{{site.baseurl}}/assets/images/jess-signature.gif">
