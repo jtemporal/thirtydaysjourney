@@ -1,7 +1,6 @@
 ---
 layout: post
-categories:
-- featured
+tags:
 - day 0
 title: Day 0 - Earlier
 author: jess

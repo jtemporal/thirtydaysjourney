@@ -1,6 +1,6 @@
 ---
 layout: post
-categories:
+tags:
 - day 1
 title: Day 1 - Earlier
 author: jess

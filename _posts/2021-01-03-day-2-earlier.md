@@ -1,6 +1,6 @@
 ---
 layout: post
-categories:
+tags:
 - featured
 title: Day 2 - earlier
 author: jess
