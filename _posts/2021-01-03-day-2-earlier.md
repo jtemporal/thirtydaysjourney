@@ -2,12 +2,13 @@
 layout: post
 tags:
 - featured
-title: Day 2 - earlier
+title: Showing up is challenging
 author: jess
 image: "/assets/images/4a74b0e7-74a3-4b31-8310-f3501513f412.jpeg"
 excerpt: Self-understanding is key
 categories:
 - day 2
+- earlier
 
 ---
 Dear diary, today is one of those hard days.
