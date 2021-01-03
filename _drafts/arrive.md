@@ -6,7 +6,31 @@ categories:
 - later
 author: jess
 title: Arrive!
-excerpt: Breath through it
+excerpt: Slow down and take your time.
 image: "/assets/images/c78fda2a-27c5-40ea-ba48-40bd1179abdd.jpeg"
 
 ---
+
+Dear diary,
+
+I did it! 🎉
+
+Starting this second day was challenging, but I did it! I'm proud of myself for taking this moment to work on my breathing and keeping my commitment to show up.
+
+As I sit here looking out the window and noticing the clouds out
+
+there, I can't help but think that I'm glad I did it. I left the mat filling much less grumpy than I was before. Is like my body is happy that it got to move.
+
+And it moved a lot. Adrienne may have a soft voice, but the class managed to make me feel like I had done exercise. Let's say my muscles are talking to me 😂
+
+I feel calmer, somewhat more grounded.
+
+I also noticed today wasn't as hard as yesterday to breathe through the poses, but full planks still got me. So I kept with the knees down variation, not as challenging, but challenging enough.
+
+If these two days showed me anything already, it is that slowing down the transitions between poses helps you focus on what you are doing and being more aware of your body and how you feel.
+
+Not that I didn't know this before, but in the daily rush to work, to take care of your family, finding time to exercise, and trying to lead a somewhat healthy life. I forgot to take my time.
+
+I'm looking forward to tomorrow's practice.
+
+Namaste! 🧘‍♀️ <img width="25%" height="25%" src="{{site.url}}{{site.baseurl}}/assets/images/jess-signature.gif">
