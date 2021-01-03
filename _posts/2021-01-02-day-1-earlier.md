@@ -2,7 +2,7 @@
 layout: post
 tags:
 - day 1
-title: Day 1 - Earlier
+title: First day is here!
 author: jess
 image: "/assets/images/492fe9e1-61b5-436b-a39c-7e0b6b262440.jpeg"
 excerpt: Nothing like the smell of fresh coffee in the morning
