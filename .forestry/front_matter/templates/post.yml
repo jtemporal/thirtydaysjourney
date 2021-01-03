@@ -13,7 +13,7 @@ fields:
 - type: text
   name: author
   label: author
-- name: categories
+- name: tags
   type: tag_list
   default: []
   label: categories
