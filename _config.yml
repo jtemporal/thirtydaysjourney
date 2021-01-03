@@ -1,37 +1,52 @@
----
-baseurl: "/thirtydaysjourney" # the subpath of your site, e.g. /blog
-url: "http://jtemporal.com"
-name: 30-d yoga journey
-description: A diary of a 30 days yoga journey
-logo: assets/images/logo.png
-favicon: favicon.ico
-email: hello@jtemporal.com
-disqus: jtemporal
-include:
-- _pages
-permalink: "/:title/"
-plugins:
-- jekyll-feed
-- jekyll-sitemap
-- jekyll-paginate
-- jekyll-seo-tag
+# Site
+name: '30-d yoga journey'
+description: 'A diary of a 30 days yoga journey'
+logo: 'assets/images/logo.png'
+favicon: 'favicon.ico'
+url: 'http://jtemporal.com'
+baseurl: '/thirtydaysjourney'
+disqus: 'jtemporal'
+email: 'hello@jtemporal.com'
+
+include: ["_pages"]
+permalink: /:title/
+
+# Plugins
+plugins: 
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+
 authors:
   jess:
-    name: Jess Temporal
-    site: https://jtemporal.com
-    avatar: "/assets/images/jess.jpg"
-    bio: "I'm data scientist and pocaster trying to show up to the mat everyday (for the next 30 days)."
-    email: hello@jtemporal.com
-    twitter: https://twitter.com/jesstemporal
+    name:     Jess Temporal
+    site:     https://jtemporal.com
+    avatar:   "/assets/images/jess.jpg"
+    bio:      "I'm data scientist and pocaster trying to show up to the mat everyday (for the next 30 days)."
+    email:    hello@jtemporal.com
+    twitter:  https://twitter.com/jesstemporal
+
+# Defaults
 defaults:
-- scope:
-    path: _posts
-  values:
-    layout: post
-    author: jess
-    avatar: "/assets/images/jess.jpg"
-- scope:
-    path: _pages
-  values:
-    layout: page
-paginate: "10"
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      author: jess
+      avatar: "/assets/images/jess.jpg"
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+# Paginate
+paginate: 10
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
