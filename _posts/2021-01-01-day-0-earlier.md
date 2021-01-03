@@ -7,6 +7,7 @@ image: "/assets/images/656f795a-a199-4312-87fc-e2aa982367e4.png"
 excerpt: Check in time!!
 categories:
 - day 0
+- earlier
 
 ---
 Dear diary,
