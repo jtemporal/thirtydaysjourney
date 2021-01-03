@@ -16,7 +16,7 @@ fields:
 - name: tags
   type: tag_list
   default: []
-  label: categories
+  label: tags
 - type: file
   name: image
   label: image
@@ -29,6 +29,10 @@ fields:
     schema:
       format: markdown
   label: excerpt
+- name: categories
+  type: tag_list
+  default: []
+  label: categories
 pages:
 - _posts/2021-01-02-day-1-later.md
 - _posts/2021-01-03-day-2-earlier.md
