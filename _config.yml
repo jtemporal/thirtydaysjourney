@@ -6,6 +6,7 @@ description: A diary of a 30 days yoga journey
 logo: assets/images/logo.png
 favicon: favicon.ico
 email: hello@jtemporal.com
+disqus: jtemporal
 include:
 - _pages
 permalink: "/:title/"
