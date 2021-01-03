@@ -3,6 +3,7 @@ layout: post
 tags: []
 title: "Let’s connect \U0001F9D8‍♀️"
 author: jess
+date: 2021-01-01 08:00:00 -0300
 image: "/assets/images/656f795a-a199-4312-87fc-e2aa982367e4.png"
 excerpt: Check in time!!
 categories:
