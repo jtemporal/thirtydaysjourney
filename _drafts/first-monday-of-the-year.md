@@ -6,7 +6,7 @@ categories:
 author: jess
 title: First Monday of the year!
 excerpt: Holidays are over and is time to get back to work
-image: ''
+image: "/assets/images/0649e41f-fa3d-4c6c-bbbc-1b6d15f113f8.jpeg"
 date: 2021-01-04 11:30:00 +0000
 
 ---
