@@ -19,14 +19,23 @@ fields:
     schema:
       format: markdown
   label: excerpt
-- name: tags
-  type: tag_list
-  default: []
-  label: tags
+- name: date
+  type: datetime
+  label: date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
 - name: categories
   type: tag_list
   default: []
   label: categories
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
 - type: text
   name: author
   label: author
