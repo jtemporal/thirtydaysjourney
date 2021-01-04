@@ -7,6 +7,7 @@ author: jess
 title: First Monday of the year!
 excerpt: Holidays are over and is time to get back to work
 image: ''
+date: 2021-01-04 11:30:00 +0000
 
 ---
 Dear diary, the first Monday of the year is here. 🎉
