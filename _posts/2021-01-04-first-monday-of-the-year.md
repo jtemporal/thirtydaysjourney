@@ -3,6 +3,7 @@ layout: post
 tags: []
 categories:
 - day 3
+- earlier
 author: jess
 title: First Monday of the year!
 excerpt: Holidays are over and is time to get back to work
