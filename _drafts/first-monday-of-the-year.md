@@ -28,4 +28,4 @@ I thought I would be worried and anxious to get back to work after the holidays.
 
 See you at the practice!
 
-Namaste!
+Namaste! 🧘‍♀️<img width="25%" height="25%" src="{{site.url}}{{site.baseurl}}/assets/images/jess-signature.gif">
