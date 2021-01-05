@@ -22,3 +22,5 @@ I talked to Ana a little bit about this after the class. So far, all practices m
 After class, I felt in a slow vibe still but with more energy.
 
 I can't wait to see what it will be like tomorrow's class.
+
+Namaste! 🧘‍♀️ <img width="25%" height="25%" src="{{site.url}}{{site.baseurl}}/assets/images/jess-signature.gif">
