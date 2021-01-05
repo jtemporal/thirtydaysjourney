@@ -39,4 +39,4 @@ But it is okay, some days we start slow. Plans for the day:
 
 Sounds good, huh? See you later.
 
-Namaste'.
+Namaste! 🧘‍♀️ <img width="25%" height="25%" src="{{site.url}}{{site.baseurl}}/assets/images/jess-signature.gif">
