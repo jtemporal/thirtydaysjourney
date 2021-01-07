@@ -13,7 +13,7 @@ Dear diary,
 
 The doubts about Adrienne being some sort of undercover amazonian warrior are growing. Thank the goddess, she knows we (mere mortals) need breaks.
 
-The funny thing about today's practice: I never thought a breathing technique could make my muscles burn. 
+The funny thing about today's practice: I never thought a breathing technique could make my muscles burn.
 
 Breathe of fire.
 
@@ -30,3 +30,5 @@ Happy to do something different every day.
 Looking forward to tomorrow and grateful for today.
 
 See you at the next practice.
+
+Namaste! 🧘‍♀️ <img width="25%" height="25%" src="{{site.url}}{{site.baseurl}}/assets/images/jess-signature.gif">
