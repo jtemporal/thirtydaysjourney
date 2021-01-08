@@ -8,7 +8,7 @@ author: jess
 title: "Synchronize \U0001F91E"
 excerpt: One week of showing up to the mat! Yay me!
 date: 2021-01-08 21:00:00 +0000
-image: ''
+image: "/assets/images/3c9ef12e-5e3a-4b6c-997b-fc74f0f1a79f.jpeg"
 
 ---
 Dear diary,
