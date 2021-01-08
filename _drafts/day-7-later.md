@@ -1,11 +1,13 @@
 ---
 layout: post
-categories: []
+categories:
+- day 7
+- later
 tags: []
 author: jess
-title: day 7 later
+title: "Synchronize \U0001F91E"
 excerpt: One week of showing up to the mat! Yay me!
-date: 
+date: 2021-01-08 21:00:00 +0000
 image: ''
 
 ---
