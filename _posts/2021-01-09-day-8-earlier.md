@@ -5,7 +5,7 @@ categories:
 - earlier
 tags: []
 author: jess
-title: day 8 earlier
+title: Starting week 2
 excerpt: Perfect saturday!
 date: 2021-01-09 22:00:00 +0000
 image: "/assets/images/55e871d1-a554-42dd-a71f-7b39dc5cef00.jpeg"
