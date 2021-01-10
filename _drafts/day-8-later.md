@@ -6,7 +6,7 @@ categories:
 tags:
 - sticky
 author: jess
-title: day 8 later
+title: "Snuggle \U0001F49C"
 excerpt: Found my second favorite pose!
 date: 2021-01-09 23:00:00 +0000
 image: "/assets/images/2224f84d-b745-4d63-9e1f-aa7580e0a931.jpeg"
