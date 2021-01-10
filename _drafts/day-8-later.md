@@ -4,7 +4,7 @@ categories: []
 tags: []
 author: jess
 title: day 8 later
-excerpt: ''
+excerpt: Found my second favorite pose!
 date: 
 image: ''
 
