@@ -1,12 +1,15 @@
 ---
 layout: post
-categories: []
-tags: []
+categories:
+- day 8
+- later
+tags:
+- sticky
 author: jess
 title: day 8 later
 excerpt: Found my second favorite pose!
-date: 
-image: ''
+date: 2021-01-09 23:00:00 +0000
+image: "/assets/images/2224f84d-b745-4d63-9e1f-aa7580e0a931.jpeg"
 
 ---
 Dear diary,
