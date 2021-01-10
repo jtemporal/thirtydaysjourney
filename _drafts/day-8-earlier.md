@@ -25,4 +25,4 @@ And here I am, at the mate with my fluffy blanket, ready to snuggle with Adriene
 
 See you after practice!
 
-Namaste!
+Namaste! 🧘‍♀️ <img width="25%" height="25%" src="{{site.url}}{{site.baseurl}}/assets/images/jess-signature.gif">
