@@ -7,7 +7,7 @@ tags: []
 author: jess
 title: day 8 earlier
 excerpt: Perfect saturday!
-date: 
+date: 2021-01-09 22:00:00 +0000
 image: ''
 
 ---
