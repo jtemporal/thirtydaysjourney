@@ -5,7 +5,7 @@ categories:
 - earlier
 tags: []
 author: jess
-title: day 10 later
+title: Time to release the tension
 excerpt: After many meetings, is me time!
 date: 2021-01-11 21:00:00 +0000
 image: "/assets/images/cb3269ec-3a9d-4b62-8e0e-3112e42e1f90.jpeg"
