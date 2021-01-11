@@ -4,7 +4,7 @@ categories: []
 tags: []
 author: jess
 title: day 10 later
-excerpt: ''
+excerpt: Time with yourself, is time well spent
 date: 
 image: ''
 
