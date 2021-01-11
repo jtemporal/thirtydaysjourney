@@ -5,8 +5,8 @@ categories:
 - earlier
 tags: []
 author: jess
-title: day 9 earlier
-excerpt: Sundays are my nemesis
+title: Sundays are tough!
+excerpt: 'The sofa doesn’t want me to get up ¯\_(ツ)_/¯ '
 date: 2021-01-10 22:20:00 +0000
 image: ''
 
