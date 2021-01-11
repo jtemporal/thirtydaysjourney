@@ -1,11 +1,13 @@
 ---
 layout: post
-categories: []
+categories:
+- day 9
+- later
 tags: []
 author: jess
-title: day 9 later
-excerpt: ''
-date: 
+title: "Balance \U0001F9A9"
+excerpt: Practice and one day you shall achieve
+date: 2021-01-10 23:00:00 +0000
 image: "/assets/images/3c887779-006c-4db1-8b66-e74711119f38.jpeg"
 
 ---
