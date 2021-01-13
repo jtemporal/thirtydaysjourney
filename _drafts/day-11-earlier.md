@@ -1,29 +1,27 @@
 ---
 layout: post
-categories: []
+categories:
+- day 11
+- earlier
 tags: []
 author: jess
 title: day 11 earlier
 excerpt: ''
-date: 
-image: ''
+date: 2021-01-13 00:30:00 +0000
+image: "/assets/images/e152168c-a057-425a-80c6-3883cfa9cfdb.jpeg"
 
 ---
 Dear diary,
 
-Not much today, woke up early, bad problem soloing class.
+Not much today.
 
-had lunch, a fulw meetings and some re-planning due to Creme
+I woke up early, had a problem-solving class.
 
-unter seen tasks that were brought to attention by some
-
-other team today.
+Had lunch, a few meetings, and some re-planning due to some unforeseen tasks that came up.
 
 All of that means that I'm a tad tired.
 
-But today I'll do my practice believing that this will
-
-energize me and help me sleep better.
+But today, I'll do my practice believing that this will energize me and help me sleep better.
 
 See you after practice.
 
