@@ -5,7 +5,7 @@ categories:
 - earlier
 tags: []
 author: jess
-title: day 12 earlier
+title: Finally to the mat
 excerpt: Another long day
 date: 2021-01-14 00:00:00 +0000
 image: ''
