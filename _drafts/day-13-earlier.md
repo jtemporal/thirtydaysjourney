@@ -8,7 +8,7 @@ author: jess
 title: day 13 earlier
 excerpt: ''
 date: 2021-01-14 12:00:00 +0000
-image: ''
+image: "/assets/images/7a8319fe-e18d-41e7-b64d-c668b8586bac.jpeg"
 
 ---
 Dear diary,
