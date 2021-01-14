@@ -1,11 +1,13 @@
 ---
 layout: post
-categories: []
+categories:
+- day 13
+- earlier
 tags: []
 author: jess
 title: day 13 earlier
 excerpt: ''
-date: 
+date: 2021-01-14 12:00:00 +0000
 image: ''
 
 ---
@@ -17,4 +19,4 @@ Decided to do yoga before the first meeting today and maybe enjoy it a little bi
 
 See you after practice.
 
-Namaste!
+Namaste! 🧘‍♀️ <img width="25%" height="25%" src="{{site.url}}{{site.baseurl}}/assets/images/jess-signature.gif">
