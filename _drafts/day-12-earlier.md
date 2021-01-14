@@ -1,11 +1,13 @@
 ---
 layout: post
-categories: []
+categories:
+- day 12
+- earlier
 tags: []
 author: jess
 title: day 12 earlier
-excerpt: ''
-date: 
+excerpt: Another long day
+date: 2021-01-14 00:00:00 +0000
 image: ''
 
 ---
