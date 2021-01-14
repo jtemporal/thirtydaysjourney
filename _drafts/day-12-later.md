@@ -1,11 +1,13 @@
 ---
 layout: post
-categories: []
+categories:
+- day 12
+- later
 tags: []
 author: jess
 title: day 12 later
-excerpt: ''
-date: 
+excerpt: Here we go again
+date: 2021-01-14 01:00:00 +0000
 image: ''
 
 ---
