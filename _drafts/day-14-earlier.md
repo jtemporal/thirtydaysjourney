@@ -1,11 +1,13 @@
 ---
 layout: post
-categories: []
+categories:
+- day 14
+- earlier
 tags: []
 author: jess
 title: Great day!
 excerpt: Friyay!
-date: 
+date: 2021-01-15 19:00:00 +0000
 image: ''
 
 ---
