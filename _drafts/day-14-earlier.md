@@ -3,8 +3,8 @@ layout: post
 categories: []
 tags: []
 author: jess
-title: day 14 earlier
-excerpt: ''
+title: Great day!
+excerpt: Friyay!
 date: 
 image: ''
 
@@ -17,4 +17,4 @@ Just grabbed the mat, and I'm ready to hop on to it!
 
 See you after practice!
 
-Namaste!
+Namaste! 🧘‍♀️ <img width="25%" height="25%" src="{{site.url}}{{site.baseurl}}/assets/images/jess-signature.gif">
