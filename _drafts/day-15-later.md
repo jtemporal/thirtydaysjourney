@@ -19,4 +19,4 @@ This was a great Saturday.
 
 See you tomorrow.
 
-Namaste!
+Namaste! 🧘‍♀️ <img width="25%" height="25%" src="{{site.url}}{{site.baseurl}}/assets/images/jess-signature.gif">
